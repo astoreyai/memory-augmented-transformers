@@ -117,15 +117,15 @@ Please cite this work as:
   number    = {},
   pages     = {},
   doi       = {},
-  note      = {Manuscript}
+  note      = {Under review at Clarkson, for submission to IEEE T-BIOM}
 }
 ```
 
 ### APA Format
-Storey, A. W. (2025). Beta regression framework for modeling bounded biometric performance in child face recognition. *IEEE Transactions on Biometrics, Behavior, and Identity Science*.
+Storey, A. W. (2025). Beta regression framework for modeling bounded biometric performance in child face recognition. *IEEE Transactions on Biometrics, Behavior, and Identity Science*. Under review at Clarkson, for submission to IEEE T-BIOM.
 
 ### Plain Text
-Aaron W. Storey. "Beta Regression Framework for Modeling Bounded Biometric Performance in Child Face Recognition." IEEE Transactions on Biometrics, Behavior, and Identity Science, 2025.
+Aaron W. Storey. "Beta Regression Framework for Modeling Bounded Biometric Performance in Child Face Recognition." IEEE Transactions on Biometrics, Behavior, and Identity Science, 2025. Under review at Clarkson, for submission to IEEE T-BIOM.
 
 ## Reproducibility
 

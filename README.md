@@ -110,7 +110,7 @@ If you use this research in your work, please cite:
   author    = {Storey, Aaron W.},
   journal   = {IEEE Transactions on Biometrics, Behavior, and Identity Science},
   year      = {2025},
-  note      = {Manuscript submitted for publication}
+  note      = {Under review at Clarkson, for submission to IEEE T-BIOM}
 }
 ```
 
