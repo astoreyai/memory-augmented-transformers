@@ -1,0 +1,78 @@
+# LaTeX temporary files
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.toc
+*.lot
+*.lof
+*.nav
+*.snm
+*.vrb
+
+# PDF outputs (comment out if you want to track PDFs)
+# *.pdf
+
+# R/RStudio files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+*~
+.Trash-*
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# Data files (add specific patterns as needed)
+*.csv
+*.xlsx
+*.xls
+# Keep example data
+!example_data.csv
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Backup files
+*.bak
+*.backup
+*_backup*
+
+# Archive folders
+.archive/
+.archive-docs/
+archive/

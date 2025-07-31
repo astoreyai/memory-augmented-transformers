@@ -1,0 +1,168 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./paper.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/local/texlive/2024/texmf-dist/tex/latex/ieeetran/IEEEtran.cls
+Document Class: IEEEtran 2015/08/26 V1.8b by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1ppl.fd)
+-- Using IEEE Computer Society mode.
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+-- This is a 10 point document.
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amssymb.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/amsfonts.sty))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/algorithms/algorithm.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/float/float.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/ifthen.sty))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/algorithms/algorithmic.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-def/pdftex.def)))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/textcomp.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/cite/cite.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/usr/local/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+(/usr/local/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+(/usr/local/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty)))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty (/usr/local/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty)))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def)
+(/usr/local/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
+(/usr/local/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty))
+(/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hpdftex.def
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+
+(/usr/local/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+))) (/usr/local/texlive/2024/texmf-dist/tex/latex/booktabs/booktabs.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
+(./paper.aux)
+-- Lines per column: 61 (exact).
+(/usr/local/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+) (/usr/local/texlive/2024/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/local/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg))
+(./paper.out) (./paper.out)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ot1phv.fd)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd)
+(/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/upzd.fd)
+
+Underfull \hbox (badness 3612) in paragraph at lines 50--51
+[]\OT1/ppl/m/n/9.53561 Longitudinal stud-ies have re-vealed com-plex age-
+
+[1{/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/l
+ocal/texlive/2024/texmf-dist/fonts/enc/dvips/base/8r.enc}]
+
+[2]
+
+[3 <../figures/age_patterns.pdf>]
+Underfull \hbox (badness 3838) in paragraph at lines 160--161
+\OT1/ppl/m/n/9.53561 Beta re-gres-sion takes a fun-da-men-tally dif-fer-ent ap-
+
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 202--203
+\OT1/ppl/m/n/9.53561 pat-terns Young Face Ag-ing re-vealed. Re-stricted cu-bic
+
+[4 <../figures/boundary_violations.pdf>]
+
+[5]
+
+[6 <../figures/beta_regression_concepts.pdf> <../figures/variance_analysis.pdf>
+ <../figures/prediction_intervals.pdf>]
+Underfull \hbox (badness 2042) in paragraph at lines 339--340
+[]\OT1/ppl/m/n/9.53561 Enrollment tim-ing fol-lows bi-o-log-i-cal pat-terns. Th
+e
+
+
+Overfull \hbox (18.13702pt too wide) detected at line 368
+[][][][][] \OT1/cmr/m/n/10 = [][](\OML/cmm/m/it/10 ^^L[] \OT1/cmr/m/n/10 + \OML
+/cmm/m/it/10 ^^L[] \OMS/cmsy/m/n/10 ^^A [][] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10
+ ^^L[] \OMS/cmsy/m/n/10 ^^A \OT1/cmr/m/n/10 ^^A\OML/cmm/m/it/10 T[] \OT1/cmr/m/
+n/10 + \OML/cmm/m/it/10 ^^L[] \OMS/cmsy/m/n/10 ^^A [][] ^^B \OT1/cmr/m/n/10 ^^A
+\OML/cmm/m/it/10 T[] \OT1/cmr/m/n/10 + \OML/cmm/m/it/10 u[] \OT1/cmr/m/n/10 + \
+OML/cmm/m/it/10 ^^O[]\OT1/cmr/m/n/10 )
+
+[7 <../figures/operational_impact.pdf>]
+Underfull \hbox (badness 3260) in paragraph at lines 377--378
+[]\OT1/ppl/m/n/9.53561 Despite the bound-ary con-straints, beta re-gres-sion
+(/usr/local/texlive/2024/texmf-dist/tex/latex/psnfss/ts1ppl.fd)
+
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
+[]\OT1/ppl/m/n/9.53561 The quadratic vari-ance pat-tern re-vealed by
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--437
+\OT1/ppl/m/n/9.53561 beta regression---with un-cer-tainty peak-ing at 50%
+
+Underfull \hbox (badness 2293) in paragraph at lines 455--456
+[]\OT1/ppl/m/n/9.53561 Comparing mul-ti-ple age groups with dif-fer-ent
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 477--478
+[]\OT1/ppl/m/n/9.53561 Combine ap-proaches for com-pre-hen-sive sys-tem
+
+Underfull \hbox (badness 2197) in paragraph at lines 495--496
+\OT1/ppl/m/n/9.53561 ness. All pre-dic-tions re-main within valid prob-a-bil-it
+y
+
+[9] (./paper.bbl
+)
+Underfull \hbox (badness 1354) in paragraph at lines 514--516
+\OT1/phv/m/n/8.03 cuses on the de-sign of memory-augmented
+
+[10 <../figures/author.jpg>] (./paper.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information)</usr/local/texlive/2024/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx7.pfb></usr/local/texlive/2024/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2024/texmf-dis
+t/fonts/type1/public/amsfonts/cmextra/cmmib7.pfb></usr/local/texlive/2024/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2024/texmf-dist/fo
+nts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/typ
+e1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/
+palatino/uplb8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatin
+o/uplr8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/palatino/uplri
+8a.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/urw/zapfding/uzdr.pfb>
+Output written on paper.pdf (10 pages, 1479279 bytes).
+Transcript written on paper.log.
