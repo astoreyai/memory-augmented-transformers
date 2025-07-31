@@ -77,8 +77,10 @@ memory-augmented-transformers/
 
 ### Key Notebooks
 
-- **`StoreyAaron_BetaRegression.ipynb`**: Complete statistical analysis and model comparison
-- **`StoreyAaron_ChildFaceAnalysis.ipynb`**: Empirical data exploration and visualization
+| Notebook | Description | Run in Colab |
+|----------|-------------|--------------|
+| **StoreyAaron_BetaRegression.ipynb** | Complete statistical analysis and model comparison | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/memory-augmented-transformers/blob/main/beta-regression-framework/supplementary/notebooks/StoreyAaron_BetaRegression.ipynb) |
+| **StoreyAaron_ChildFaceAnalysis.ipynb** | Empirical data exploration and visualization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/memory-augmented-transformers/blob/main/beta-regression-framework/supplementary/notebooks/StoreyAaron_ChildFaceAnalysis.ipynb) |
 
 ## Research Highlights
 

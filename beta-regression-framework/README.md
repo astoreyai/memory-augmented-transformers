@@ -77,8 +77,12 @@ BetaRegression_Framework/
 ### Implementation
 The beta regression framework is implemented using Python's statsmodels library. See the Jupyter notebooks in `supplementary/notebooks/` for complete analysis code:
 
-- `StoreyAaron_BetaRegression.ipynb`: Complete statistical analysis
-- `StoreyAaron_ChildFaceAnalysis.ipynb`: Empirical data exploration
+#### Interactive Notebooks
+
+| Notebook | Description | Run in Colab |
+|----------|-------------|--------------|
+| **StoreyAaron_BetaRegression.ipynb** | Complete statistical analysis and model comparison | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/memory-augmented-transformers/blob/main/beta-regression-framework/supplementary/notebooks/StoreyAaron_BetaRegression.ipynb) |
+| **StoreyAaron_ChildFaceAnalysis.ipynb** | Empirical data exploration and visualization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astoreyai/memory-augmented-transformers/blob/main/beta-regression-framework/supplementary/notebooks/StoreyAaron_ChildFaceAnalysis.ipynb) |
 
 ## Key Results
 
