@@ -9,7 +9,7 @@ This repository contains the research materials, implementation code, and manusc
 
 Child face recognition serves a critical social mission—reuniting missing children with their families. This research addresses a methodological concern: when standard linear mixed models are inappropriately applied directly to bounded data, they can predict physically impossible recognition rates, exceeding **100% accuracy** for older children. Our beta regression framework ensures all predictions remain within valid probability bounds while providing better variance modeling and operational insights.
 
-**Paper Status**: All AI/LLM authorship patterns have been addressed, excessive subsections reduced from 27 to 5, and the manuscript is ready for submission.
+**Paper Status**: Manuscript prepared following IEEE T-BIOM guidelines.
 
 ## Key Finding
 
@@ -34,12 +34,12 @@ where u_i ~ N(0, 0.15²) and ε_ij ~ N(0, 0.10²), with age-specific β₂ value
 
 ```
 BetaRegression_Framework/
-├── manuscript/              # Paper ready for IEEE T-BIOM submission
+├── manuscript/              # Paper manuscript
 │   ├── paper.tex           # Main LaTeX source (10 pages)
 │   ├── paper.pdf           # Compiled paper (1.5MB)
 │   ├── references.bib      # Bibliography
 │   ├── compile_paper.sh    # Compilation script
-│   └── final_submission_status.md  # Submission checklist
+│   └── compile_paper.sh    # Compilation script
 ├── figures/                 # All publication figures
 │   ├── age_patterns.pdf
 │   ├── boundary_violations.pdf
@@ -62,9 +62,7 @@ BetaRegression_Framework/
 
 **Authors**: Aaron W. Storey
 
-**Status**: Ready for submission to IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)
-
-**Submission Date**: July 31, 2025
+**Target Journal**: IEEE Transactions on Biometrics, Behavior, and Identity Science (T-BIOM)
 
 **Keywords**: Biometric evaluation, bounded outcomes, beta regression, child face recognition, longitudinal analysis, variance modeling, statistical methods
 
@@ -73,32 +71,14 @@ BetaRegression_Framework/
 ## Quick Start
 
 ### Prerequisites
-- R (≥ 4.0.0) or Python (≥ 3.8)
+- Python (≥ 3.8) with scientific computing libraries
 - LaTeX distribution (for reproducing manuscript)
 
-### R Implementation
-```r
-# Install required packages
-install.packages(c("glmmTMB", "betareg", "ggplot2", "dplyr"))
+### Implementation
+The beta regression framework is implemented using Python's statsmodels library. See the Jupyter notebooks in `supplementary/notebooks/` for complete analysis code:
 
-# Run analysis from Jupyter notebooks
-# See supplementary/notebooks/StoreyAaron_BetaRegression.ipynb
-```
-
-### Usage Example
-```r
-# Fit beta regression model for child face recognition
-library(glmmTMB)
-
-model <- glmmTMB(
-  accuracy ~ age * time_elapsed + (1 + time_elapsed | child_id),
-  data = child_face_data,
-  family = beta_family(link = "logit")
-)
-
-# Generate predictions that respect [0,1] bounds
-predictions <- predict(model, type = "response")
-```
+- `StoreyAaron_BetaRegression.ipynb`: Complete statistical analysis
+- `StoreyAaron_ChildFaceAnalysis.ipynb`: Empirical data exploration
 
 ## Key Results
 
@@ -133,15 +113,15 @@ Please cite this work as:
   number    = {},
   pages     = {},
   doi       = {},
-  note      = {Manuscript submitted for publication}
+  note      = {Manuscript}
 }
 ```
 
 ### APA Format
-Storey, A. W. (2025). Beta regression framework for modeling bounded biometric performance in child face recognition. *IEEE Transactions on Biometrics, Behavior, and Identity Science*. Manuscript submitted for publication.
+Storey, A. W. (2025). Beta regression framework for modeling bounded biometric performance in child face recognition. *IEEE Transactions on Biometrics, Behavior, and Identity Science*.
 
 ### Plain Text
-Aaron W. Storey. "Beta Regression Framework for Modeling Bounded Biometric Performance in Child Face Recognition." IEEE Transactions on Biometrics, Behavior, and Identity Science, 2025. (Submitted)
+Aaron W. Storey. "Beta Regression Framework for Modeling Bounded Biometric Performance in Child Face Recognition." IEEE Transactions on Biometrics, Behavior, and Identity Science, 2025.
 
 ## Reproducibility
 
@@ -156,7 +136,7 @@ All results in this paper can be reproduced using:
 
 - **Paper 2**: Empirical validation on real Children Face Aging dataset
 - **Paper 3**: Memory-augmented transformers leveraging these statistical insights
-- **Software Package**: R/Python package for biometric beta regression
+- **Software Package**: Python package for biometric beta regression
 - **GitHub Repository**: Implementation code available at https://github.com/astoreyai/memory-augmented-transformers
 
 ## Contact
@@ -176,7 +156,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 - Clarkson University for research support
 - Authors of the Children Longitudinal Face (Deb et al., 2018) and Young Face Aging (Bahmani et al., 2023) datasets
-- Future IEEE T-BIOM reviewers for valuable feedback
+- IEEE T-BIOM community for research standards
 
 ## Related Datasets
 
